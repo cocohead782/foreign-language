@@ -8,3 +8,14 @@ body{
 img:hover{
   opacity: 0.25;
 }
+.navbar{
+  background-color: black;
+}
+.navbarlink{
+  color: green;
+  opacity: 100%;
+  background-color: white;
+}
+.navbarlink:hover{
+ background-color: gray;
+}

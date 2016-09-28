@@ -16,3 +16,4 @@ http://cdni.condenast.co.uk/646x430/k_n/madrid_cnt_9nov09_istock_b.jpg
 https://owlcation.com/stem/how-to-align-images-side-by-side
 http://www.tourspain.org/madrid/history.asp
 http://www.w3schools.com/css/css_image_transparency.asp
+http://www.w3schools.com/css/css_navbar.asp
