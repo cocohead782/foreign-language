@@ -17,3 +17,4 @@ https://owlcation.com/stem/how-to-align-images-side-by-side
 http://www.tourspain.org/madrid/history.asp
 http://www.w3schools.com/css/css_image_transparency.asp
 http://www.w3schools.com/css/css_navbar.asp
+translate.google.com
